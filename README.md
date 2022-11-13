@@ -16,8 +16,7 @@ It deployed on Heroku and it's working even right now! You can find it by this I
 9.  Done! Open your telegram bot and try it out! :)
 
 
-```
-```
+
 # How to install Telebot & Pyowm?
 
 ## Telebot
