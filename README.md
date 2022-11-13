@@ -15,6 +15,7 @@ It deployed on Heroku and it's working even right now! You can find it by this I
 8.  Run "telbot.py" within Terminal and wait few seconds
 9.  Done! Open your telegram bot and try it out! :)
 
+Note: It's enough to run this bot on your PC, so it's going to get OFF after you turn off your computer. If you want it to work for long time, you should also deploy your bot on Heroku or similar space.
 
 
 # How to install Telebot & Pyowm?
